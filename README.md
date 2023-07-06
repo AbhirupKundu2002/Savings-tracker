@@ -1,6 +1,7 @@
-# React Expense Tracker
+# Savings Tracker
 
-React Expense Tracker is a simple expense tracker app built with React and the context API.
+savings Tracker is a simple expense tracker app built with React. The Authentication part is done using firebase
+
 
 # Usage
 
